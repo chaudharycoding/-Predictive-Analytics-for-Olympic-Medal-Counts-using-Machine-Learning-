@@ -2,9 +2,9 @@
 
 This project uses the following : 
 
-Python 3.8+
-Python packages
-pandas
-numpy
-scikit-learn
-seaborn
+Python 3.8+,
+Python packages,
+pandas,
+numpy,
+scikit-learn,
+seaborn,
