@@ -2,7 +2,7 @@
 
 This project uses the following : 
 
-Python 3.8+,
+Python 3.12,
 Python packages,
 pandas,
 numpy,
