@@ -7,4 +7,4 @@ Python packages,
 pandas,
 numpy,
 scikit-learn,
-seaborn,
+seaborn
