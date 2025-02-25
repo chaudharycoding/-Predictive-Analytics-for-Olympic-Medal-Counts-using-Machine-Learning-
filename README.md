@@ -1,4 +1,4 @@
-# Predictive Analytics for Olympic Medal Counts using Machine Learning
+# Olympic Medal Predicter
 
 ## Overview
 This project predicts Olympic medal counts using machine learning techniques. It leverages historical Olympic data and applies regression analysis to estimate the number of medals a country is expected to win based on various factors.
@@ -43,19 +43,6 @@ A **Linear Regression** model from Scikit-learn is used:
 - The model's predictions are compared against actual results.
 - The error ratio is calculated for each team to measure performance.
 - A histogram is plotted to visualize the distribution of errors.
-
-## Sample Predictions
-### USA
-| Year | Athletes | Previous Medals | Actual Medals | Predicted Medals |
-|------|---------|----------------|--------------|------------------|
-| 2012 | 689     | 317            | 248          | 285.21           |
-| 2016 | 719     | 248            | 264          | 235.57           |
-
-### India
-| Year | Athletes | Previous Medals | Actual Medals | Predicted Medals |
-|------|---------|----------------|--------------|------------------|
-| 2012 | 95      | 3              | 6            | 6.92             |
-| 2016 | 130     | 6              | 2            | 11.68            |
 
 ## Conclusion
 - The model successfully identifies trends in Olympic medal counts.
